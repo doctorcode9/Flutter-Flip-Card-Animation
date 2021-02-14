@@ -1,6 +1,5 @@
-# video
-
-A new Flutter project.
+# Flutter Flip Card Animation
+A Simple animation made using Flutter.
 
 ## Getting Started
 
